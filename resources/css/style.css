@@ -1,1 +1,15 @@
-/* Let's Go Mobile First */
+/* Universal Styles */
+
+
+
+/* Styles for mobile devices up to 768px */
+
+
+video {
+    width: 100%;
+    height: auto;
+    max-height: 100%;
+}
+
+
+/* Styles for desktop devices 768px and up */
